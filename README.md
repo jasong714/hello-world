@@ -1,2 +1,2 @@
 # hello-world
-My first repository
+Hello, I'm Jason. I coded a LONG time ago mainly in PHP but hoping to learn some stuff.
